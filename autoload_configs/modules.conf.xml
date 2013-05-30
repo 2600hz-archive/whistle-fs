@@ -28,7 +28,7 @@
         <!-- Codec Interfaces -->
         <load module="mod_spandsp"/>
         <load module="mod_siren"/>
-	<load module="mod_com_g729"/>
+        <load module="mod_com_g729"/>
         <load module="mod_g723_1"/>
         <load module="mod_amr"/>
         <load module="mod_ilbc"/>
@@ -39,7 +39,6 @@
 
         <!-- File Format Interfaces -->
         <load module="mod_sndfile"/>
-        <!--<load module="mod_native_file"/>-->
         <load module="mod_local_stream"/>
         <load module="mod_tone_stream"/>
         <load module="mod_shout"/>
